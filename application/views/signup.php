@@ -204,6 +204,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <span>Check if you want to sign up as an admin</span>
             </div>
 
+            <div class="signup-link">
+            <p>Already Signed up? <a href="login">Log in here</a></p>
+        </div>
+
             <button type="submit">Register</button>
         </form>
     </div>
